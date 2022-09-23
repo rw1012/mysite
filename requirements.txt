@@ -5,7 +5,7 @@ django-simple-captcha==0.5.10
 dnspython==1.16.0
 mysql-connector-python==8.0.19
 Pillow==7.0.0
-protobuf==3.6.1
+protobuf==3.18.3
 py-mysql==1.0
 PyMySQL==0.9.3
 pytz==2019.3
